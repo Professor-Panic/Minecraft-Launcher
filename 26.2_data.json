@@ -86,7 +86,7 @@
           {
             "action": "allow",
             "features": {
-              "is_demo_user": true
+              "C": true
             }
           }
         ],
