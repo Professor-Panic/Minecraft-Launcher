@@ -1,0 +1,246 @@
+[03:03:32] [Datafixer Bootstrap/INFO]: 287 Datafixer optimizations took 719 milliseconds
+[03:03:37] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[03:03:37] [Render thread/INFO]: Setting user: Scorne_
+[03:03:38] [Render thread/INFO]: [STDERR]: [LWJGL] [ThreadLocalUtil] Unsupported JNI version detected, this may result in a crash. Please inform LWJGL developers.
+[03:03:38] [Render thread/INFO]: Backend library: LWJGL version 3.3.3+5
+[03:03:39] [Render thread/INFO]: Using optional rendering extensions: GL_ARB_buffer_storage, GL_KHR_debug, GL_ARB_vertex_attrib_binding, GL_ARB_direct_state_access, GL_EXT_texture_filter_anisotropic
+[03:03:39] [Render thread/INFO]: Reloading ResourceManager: vanilla
+[03:03:40] [Worker-Main-2/INFO]: Found unifont_pua-17.0.01.hex, loading
+[03:03:40] [Worker-Main-5/INFO]: Found unifont_all_no_pua-17.0.01.hex, loading
+[03:03:41] [Worker-Main-7/INFO]: Found unifont_jp_patch-17.0.01.hex, loading
+[03:03:42] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers/Headphones (Realtek High Definition Audio)
+[03:03:42] [Render thread/INFO]: Sound engine started
+[03:03:42] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[03:03:43] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/decorated_pot.png-atlas
+[03:03:43] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/armor_trims.png-atlas
+[03:03:43] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[03:03:43] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/shield_patterns.png-atlas
+[03:03:43] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[03:03:43] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/chest.png-atlas
+[03:03:43] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/celestials.png-atlas
+[03:03:43] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/banner_patterns.png-atlas
+[03:03:43] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/beds.png-atlas
+[03:03:43] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/items.png-atlas
+[03:03:43] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/gui.png-atlas
+[03:03:43] [Render thread/INFO]: Created: 128x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[03:03:43] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/signs.png-atlas
+[03:03:43] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/shulker_boxes.png-atlas
+[03:03:47] [Render thread/INFO]: Loaded 1470 recipes
+[03:03:47] [Render thread/INFO]: Loaded 1584 advancements
+[03:03:50] [Render thread/INFO]: Connecting to mcs.vanillarealms.com, 25565
+[03:03:55] [Render thread/INFO]: Resizing Dynamic Transforms UBO, capacity limit of 2 reached during a single frame. New capacity will be 4.
+[03:03:55] [Render thread/INFO]: Resizing Dynamic Transforms UBO, capacity limit of 4 reached during a single frame. New capacity will be 8.
+[03:03:55] [Render thread/INFO]: [System] [CHAT] You have no new mail.
+[03:03:55] [Render thread/INFO]: [System] [CHAT] Scorne_ joined the game
+[03:03:55] [Render thread/INFO]: Loaded 1459 advancements
+[03:03:55] [Render thread/INFO]: Resizing Dynamic Transforms UBO, capacity limit of 8 reached during a single frame. New capacity will be 16.
+[03:03:55] [Render thread/INFO]: [System] [CHAT] Welcome Scorne_ to the server!
+[03:03:55] [Render thread/INFO]: Loaded 1466 advancements
+[03:03:55] [Render thread/INFO]: [System] [CHAT] 
+[03:03:55] [Render thread/INFO]: [System] [CHAT] 
+[03:03:55] [Render thread/INFO]: [System] [CHAT]                     Vanilla Realms
+[03:03:55] [Render thread/INFO]: [System] [CHAT]              ⛏ Friendly 1.21 Survival ⛏
+[03:03:55] [Render thread/INFO]: [System] [CHAT] 
+[03:03:55] [Render thread/INFO]: [System] [CHAT] 
+[03:03:55] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 2 reached during a single frame. New capacity will be 4.
+[03:03:56] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 4 reached during a single frame. New capacity will be 8.
+[03:03:56] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 8 reached during a single frame. New capacity will be 16.
+[03:03:56] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 16 reached during a single frame. New capacity will be 32.
+[03:03:56] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 32 reached during a single frame. New capacity will be 64.
+[03:03:57] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 64 reached during a single frame. New capacity will be 128.
+[03:03:57] [Render thread/INFO]: [System] [CHAT] igotPeptides was slain by Zombie
+[03:03:58] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 128 reached during a single frame. New capacity will be 256.
+[03:03:59] [Render thread/INFO]: [System] [CHAT] [Helper] Feline: last seen 2 years 2 months and 17 days ago
+[03:03:59] [Render thread/INFO]: [System] [CHAT] [Wolf] shy: ohh wait you was asking if you seen
+[03:03:59] [Render thread/INFO]: [System] [CHAT] Prevent grief!  If you claim your land, you will be grief-proof.
+[03:03:59] [Render thread/INFO]: [System] [CHAT] Click for Land Claim Help: bit.ly/mcgpuser
+[03:03:59] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 256 reached during a single frame. New capacity will be 512.
+[03:03:59] [Render thread/INFO]: [System] [CHAT] [Wolf] [🌞Summer'25] GodkingTommy: hes the goat
+[03:04:01] [Render thread/INFO]: [System] [CHAT] [Shepherd] Butermilkpancake: isnt this flying thing abuse?
+[03:04:01] [Render thread/INFO]: [System] [CHAT] [JrMod] [🫧🪸Coral] Zee: (ᵔᵕᵔ)◜ ᴡᴇʟᴄᴏᴍᴇ!
+[03:04:01] [Render thread/INFO]: [System] [CHAT] [Wolf] [🌞Summer'25] GodkingTommy: tHE
+[03:04:02] [Render thread/INFO]: [System] [CHAT] [Fox] igotPeptides: (ᵔᵕᵔ)◜ ᴡᴇʟᴄᴏᴍᴇ!
+[03:04:02] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 512 reached during a single frame. New capacity will be 1024.
+[03:04:05] [Render thread/INFO]: [System] [CHAT] [Wolf] [🍋Lemonade] Fihngu: [LegendaryPingu's Kills]
+[03:04:06] [Render thread/INFO]: [System] [CHAT] [Wolf] [🌞Summer'25] GodkingTommy: 2 years T-T
+[03:04:06] [Render thread/INFO]: [System] [CHAT] [Shepherd] Butermilkpancake: if used in pvp
+[03:04:07] [Render thread/INFO]: [System] [CHAT] [Shepherd+] Davuxe: welcome in!
+[03:04:09] [Render thread/INFO]: [System] [CHAT] [Wolf] shy: GodkingTommy why tf you get my hopes up
+[03:04:13] [Render thread/INFO]: [System] [CHAT] JRGHopper fell from a high place
+[03:04:17] [Render thread/INFO]: [System] [CHAT] [Helper] Feline: is what abuse
+[03:04:19] [Render thread/INFO]: [System] [CHAT] [Wolf] [Legion] JRGHopper: My dumbass hit the dj
+[03:04:20] [Render thread/INFO]: [System] [CHAT] [Helper] Feline: the skywalkers?
+[03:04:21] [Render thread/INFO]: [System] [CHAT] [Wolf] [🌞Summer'25] GodkingTommy: i didnt mean too shy
+[03:04:24] [Render thread/INFO]: [System] [CHAT] aAppleee was slain by lizardpuff10 using [Mystic Sword]
+[03:04:25] [Render thread/INFO]: [System] [CHAT] [Wolf] shy: >:(
+[03:04:25] [Render thread/INFO]: [System] [CHAT] [Wolf] [🍋Lemonade] Fihngu: LOL jrg :sob:
+[03:04:28] [Render thread/INFO]: [System] [CHAT] [Wolf] shy: i thought dash was back
+[03:04:31] [Render thread/INFO]: [System] [CHAT] ThornsInTheRoses was smashed by JRGHopper with [Vegito Blue]
+[03:04:33] [Render thread/INFO]: [System] [CHAT] ThornsInTheRoses has teleported to /arena!
+[03:04:34] [Render thread/INFO]: [System] [CHAT] [Wolf] [Legion] JRGHopper: YES
+[03:04:36] [Render thread/INFO]: [System] [CHAT] [Wolf] [🌞Summer'25] GodkingTommy: i miss that dude
+[03:04:37] [Render thread/INFO]: [System] [CHAT] [Newbie] LanternGhost507: is there a point to sleeping
+[03:04:38] [Render thread/INFO]: [System] [CHAT] [Shepherd+] [Legion] ThornsInTheRoses: jump hopper
+[03:04:39] [Render thread/INFO]: [System] [CHAT] [Wolf] [🌞Summer'25] GodkingTommy: he was a legend
+[03:04:41] [Render thread/INFO]: [System] [CHAT] [Wolf] [🍋Lemonade] Fihngu: no invis peeps
+[03:04:44] [Render thread/INFO]: [System] [CHAT] [Wolf] shy: he helped me alot
+[03:04:47] [Render thread/INFO]: [System] [CHAT] [Shepherd+] [Legion] ThornsInTheRoses: arena, slime hopper out!
+[03:04:49] [Render thread/INFO]: [System] [CHAT] [Wolf] Winton: everypony to arena for partyy
+[03:04:50] [Render thread/INFO]: [System] [CHAT] Lilwhitetiger78 has teleported to /arena!
+[03:04:51] [Render thread/INFO]: [System] [CHAT] [Wolf] shy: during the early stages of my town
+[03:04:51] [Render thread/INFO]: [System] [CHAT] [Newbie] BenjiBuilds1: i need dirt for a sale at a shop
+[03:04:53] [Render thread/INFO]: [System] [CHAT] 
+[03:04:53] [Render thread/INFO]: [System] [CHAT] 
+[03:04:53] [Render thread/INFO]: [System] [CHAT] Breaking any of the server rules below will result in a warning, punishment, or permanent ban.
+[03:04:53] [Render thread/INFO]: [System] [CHAT] 
+[03:04:53] [Render thread/INFO]: [System] [CHAT] [1] Hacked clients, auto-clickers, abusive mods, and exploit abuse are strictly prohibited.
+[03:04:53] [Render thread/INFO]: [System] [CHAT] 
+[03:04:53] [Render thread/INFO]: [System] [CHAT] [2] English is required in public chat messages.
+[03:04:53] [Render thread/INFO]: [System] [CHAT] 
+[03:04:53] [Render thread/INFO]: [System] [CHAT] [3] Don’t spam messages. In-game ads are allowed once every 15 minutes.
+[03:04:53] [Render thread/INFO]: [System] [CHAT] 
+[03:04:53] [Render thread/INFO]: [System] [CHAT] [4] Inappropriate chat, builds, usernames, or skins are not allowed.
+[03:04:53] [Render thread/INFO]: [System] [CHAT] 
+[03:04:53] [Render thread/INFO]: [System] [CHAT] [5] Do not build or claim within 8 chunks of another player’s claim. Use F3 + G to view chunks.
+[03:04:53] [Render thread/INFO]: [System] [CHAT] 
+[03:04:53] [Render thread/INFO]: [System] [CHAT] [6] Do not abuse claim trust. Unclaimed land is fair game, but do not grief along claim borders.
+[03:04:53] [Render thread/INFO]: [System] [CHAT] 
+[03:04:53] [Render thread/INFO]: [System] [CHAT] [7] Do not exploit mechanics or plugins to bypass PvP protection.
+[03:04:53] [Render thread/INFO]: [System] [CHAT] 
+[03:04:53] [Render thread/INFO]: [System] [CHAT] [8] Do not harass players in any form, including chat, teleport spamming, or begging.
+[03:04:53] [Render thread/INFO]: [System] [CHAT] 
+[03:04:53] [Render thread/INFO]: [System] [CHAT] [9] No predatory or inappropriate behavior. This includes any sexual, threatening, or manipulative conduct.
+[03:04:53] [Render thread/INFO]: [System] [CHAT] 
+[03:04:53] [Render thread/INFO]: [System] [CHAT] [10] Avoid discussing politics, religion, drugs, or controversial real-world issues.
+[03:04:53] [Render thread/INFO]: [System] [CHAT] 
+[03:04:53] [Render thread/INFO]: [System] [CHAT] [11] Do not share personal information in public chats. Private messages are your responsibility.
+[03:04:53] [Render thread/INFO]: [System] [CHAT] 
+[03:04:53] [Render thread/INFO]: [System] [CHAT] [12] Do not impersonate staff or other players. Treat everyone with respect.
+[03:04:53] [Render thread/INFO]: [System] [CHAT] 
+[03:04:53] [Render thread/INFO]: [System] [CHAT] [13] Do not stir up drama or publicly accuse others. Use tickets for reports or appeals.
+[03:04:53] [Render thread/INFO]: [System] [CHAT] 
+[03:04:53] [Render thread/INFO]: [System] [CHAT] [14] Do not evade punishments.
+[03:04:53] [Render thread/INFO]: [System] [CHAT] 
+[03:04:53] [Render thread/INFO]: [System] [CHAT] [15] Do not create lag machines. This includes lava casts, redstone lag loops, or anything that disrupts performance.
+[03:04:53] [Render thread/INFO]: [System] [CHAT] 
+[03:04:53] [Render thread/INFO]: [System] [CHAT] [16] Do not sell in-game items for real-life money, either in-game or on Discord.
+[03:04:53] [Render thread/INFO]: [System] [CHAT] 
+[03:04:53] [Render thread/INFO]: [System] [CHAT] [17] Do not advertise other servers or personal accounts. Hypixel and approved ads are exceptions.
+[03:04:53] [Render thread/INFO]: [System] [CHAT] 
+[03:04:53] [Render thread/INFO]: [System] [CHAT] 
+[03:04:55] [Render thread/INFO]: [System] [CHAT] ZeroRegretz has teleported to /arena!
+[03:04:55] [Render thread/INFO]: [System] [CHAT] [Wolf] [🌞Summer'25] GodkingTommy: i beat him in pvp a couple times and bro bought me parrot rank
+[03:04:58] [Render thread/INFO]: [System] [CHAT] neovipa82 joined the game
+[03:05:02] [Render thread/INFO]: [System] [CHAT] [Wolf] [🌞Summer'25] GodkingTommy: and he got me bee but for a different reasson
+[03:05:03] [Render thread/INFO]: [System] [CHAT] 
+[03:05:03] [Render thread/INFO]: [System] [CHAT] 
+[03:05:03] [Render thread/INFO]: [System] [CHAT] Breaking any of the server rules below will result in a warning, punishment, or permanent ban.
+[03:05:03] [Render thread/INFO]: [System] [CHAT] 
+[03:05:03] [Render thread/INFO]: [System] [CHAT] [1] Hacked clients, auto-clickers, abusive mods, and exploit abuse are strictly prohibited.
+[03:05:03] [Render thread/INFO]: [System] [CHAT] 
+[03:05:03] [Render thread/INFO]: [System] [CHAT] [2] English is required in public chat messages.
+[03:05:03] [Render thread/INFO]: [System] [CHAT] 
+[03:05:03] [Render thread/INFO]: [System] [CHAT] [3] Don’t spam messages. In-game ads are allowed once every 15 minutes.
+[03:05:03] [Render thread/INFO]: [System] [CHAT] 
+[03:05:03] [Render thread/INFO]: [System] [CHAT] [4] Inappropriate chat, builds, usernames, or skins are not allowed.
+[03:05:03] [Render thread/INFO]: [System] [CHAT] 
+[03:05:03] [Render thread/INFO]: [System] [CHAT] [5] Do not build or claim within 8 chunks of another player’s claim. Use F3 + G to view chunks.
+[03:05:03] [Render thread/INFO]: [System] [CHAT] 
+[03:05:03] [Render thread/INFO]: [System] [CHAT] [6] Do not abuse claim trust. Unclaimed land is fair game, but do not grief along claim borders.
+[03:05:03] [Render thread/INFO]: [System] [CHAT] 
+[03:05:03] [Render thread/INFO]: [System] [CHAT] [7] Do not exploit mechanics or plugins to bypass PvP protection.
+[03:05:03] [Render thread/INFO]: [System] [CHAT] 
+[03:05:03] [Render thread/INFO]: [System] [CHAT] [8] Do not harass players in any form, including chat, teleport spamming, or begging.
+[03:05:03] [Render thread/INFO]: [System] [CHAT] 
+[03:05:03] [Render thread/INFO]: [System] [CHAT] [9] No predatory or inappropriate behavior. This includes any sexual, threatening, or manipulative conduct.
+[03:05:03] [Render thread/INFO]: [System] [CHAT] 
+[03:05:03] [Render thread/INFO]: [System] [CHAT] [10] Avoid discussing politics, religion, drugs, or controversial real-world issues.
+[03:05:03] [Render thread/INFO]: [System] [CHAT] 
+[03:05:03] [Render thread/INFO]: [System] [CHAT] [11] Do not share personal information in public chats. Private messages are your responsibility.
+[03:05:03] [Render thread/INFO]: [System] [CHAT] 
+[03:05:03] [Render thread/INFO]: [System] [CHAT] [12] Do not impersonate staff or other players. Treat everyone with respect.
+[03:05:03] [Render thread/INFO]: [System] [CHAT] 
+[03:05:03] [Render thread/INFO]: [System] [CHAT] [13] Do not stir up drama or publicly accuse others. Use tickets for reports or appeals.
+[03:05:03] [Render thread/INFO]: [System] [CHAT] 
+[03:05:03] [Render thread/INFO]: [System] [CHAT] [14] Do not evade punishments.
+[03:05:03] [Render thread/INFO]: [System] [CHAT] 
+[03:05:03] [Render thread/INFO]: [System] [CHAT] [15] Do not create lag machines. This includes lava casts, redstone lag loops, or anything that disrupts performance.
+[03:05:03] [Render thread/INFO]: [System] [CHAT] 
+[03:05:03] [Render thread/INFO]: [System] [CHAT] [16] Do not sell in-game items for real-life money, either in-game or on Discord.
+[03:05:03] [Render thread/INFO]: [System] [CHAT] 
+[03:05:03] [Render thread/INFO]: [System] [CHAT] [17] Do not advertise other servers or personal accounts. Hypixel and approved ads are exceptions.
+[03:05:03] [Render thread/INFO]: [System] [CHAT] 
+[03:05:03] [Render thread/INFO]: [System] [CHAT] 
+[03:05:07] [Render thread/INFO]: [System] [CHAT] Shynut was slain by Zombie
+[03:05:10] [Render thread/INFO]: [System] [CHAT] JRGHopper fell from a high place
+[03:05:11] [Render thread/INFO]: [System] [CHAT] [Parrot] Lorax: xd
+[03:05:13] [Render thread/INFO]: [System] [CHAT] [Newbie] BenjiBuilds1: i need dirt
+[03:05:17] [Render thread/INFO]: [System] [CHAT] ThornsInTheRoses was smashed by Lilwhitetiger78 with [Project Hail Tiger]
+[03:05:17] [Render thread/INFO]: [System] [CHAT] [Wolf] shy: he was the person who helped rebuild my first home in the town
+[03:05:20] [Render thread/INFO]: [System] [CHAT] Nitro808 joined the game
+[03:05:20] [Render thread/INFO]: [System] [CHAT] [/vote] Nitro808 just voted and got free rewards!
+[03:05:20] [Render thread/INFO]: [System] [CHAT] [/vote] Nitro808 just voted and got free rewards!
+[03:05:20] [Render thread/INFO]: [System] [CHAT] [/vote] Nitro808 just voted and got free rewards!
+[03:05:20] [Render thread/INFO]: [System] [CHAT] [/vote] Nitro808 just voted and got free rewards!
+[03:05:20] [Render thread/INFO]: [System] [CHAT] [Helper] Feline: koxit just gave me bee once cuz i said "me" first when he asked who wanted one
+[03:05:21] [Render thread/INFO]: [System] [CHAT] [Wolf] [🌞Summer'25] GodkingTommy: noice
+[03:05:25] [Render thread/INFO]: [System] [CHAT] [Wolf] [🍋Lemonade] Fihngu: wb nitro
+[03:05:26] [Render thread/INFO]: [System] [CHAT] [Wolf] [🌞Summer'25] GodkingTommy: XDD
+[03:05:26] [Render thread/INFO]: [System] [CHAT] JRGHopper fell from a high place
+[03:05:29] [Render thread/INFO]: [System] [CHAT] PARABOLISMO joined the game
+[03:05:31] [Render thread/INFO]: [System] [CHAT] [Helper] Feline: and then just dropped a parrot voucher on me
+[03:05:31] [Render thread/INFO]: [System] [CHAT] [Wolf] [🌞Summer'25] GodkingTommy: legendary story feline
+[03:05:33] [Render thread/INFO]: [System] [CHAT] bash_it_in was smashed by VIX100k with [:･*❆.⋆ Glacier Mace ⋆.❆*･:]
+[03:05:37] [Render thread/INFO]: [System] [CHAT] [Wolf] [🌈Rainbow] Nitro: Thank you
+[03:05:38] [Render thread/INFO]: [System] [CHAT] [Wolf] [🍋Lemonade] Fihngu: oh yeah he gave me an exo for that fel
+[03:05:39] [Render thread/INFO]: [System] [CHAT] lizardpuff10 was smashed by JRGHopper with [Vegito Blue]
+[03:05:39] [Render thread/INFO]: [System] [CHAT] [Shepherd] Zippyman87: :)
+[03:05:39] [Render thread/INFO]: [System] [CHAT] BenjiBuilds1 was blown up by Creeper
+[03:05:42] [Render thread/INFO]: [System] [CHAT] LegendaryPingu was smashed by JRGHopper with [Vegito Blue]
+[03:05:42] [Render thread/INFO]: [System] [CHAT] Shynut left the game
+[03:05:42] [Render thread/INFO]: [System] [CHAT] You've been dropped off at: x=-27142 y=63 z=21676
+[03:05:46] [Worker-Main-3/WARN]: Profile contained invalid signature for textures property (profile id: 00000000-0000-0000-0009-01f5647bbe7a)
+[03:05:46] [Worker-Main-1/WARN]: Profile contained invalid signature for textures property (profile id: 00000000-0000-0000-0009-01f193fc625b)
+[03:05:46] [Worker-Main-4/WARN]: Profile contained invalid signature for textures property (profile id: 00000000-0000-0000-0009-01fc7baca2e1)
+[03:05:48] [Render thread/INFO]: [System] [CHAT] [Wolf] [🍋Lemonade] Fihngu: everyone slime jrg
+[03:05:53] [Render thread/INFO]: [System] [CHAT] Unknown or incomplete command. See below for error\nhide<--[HERE]
+[03:05:54] [Render thread/INFO]: [System] [CHAT] [Bee] lizard: fr
+[03:05:54] [Render thread/INFO]: [System] [CHAT] aAppleee left the game
+[03:05:54] [Render thread/INFO]: [System] [CHAT] [Wolf] [🌞Summer'25] GodkingTommy: jrg killed 2 dudes and we all jump him xD
+[03:05:58] [Render thread/INFO]: [System] [CHAT] [Farmer+] YoloYoloPow: k
+[03:06:00] [Render thread/INFO]: [System] [CHAT] YoloYoloPow was slain by GodkingTommy using [Dark Oak Pressure Plates]
+[03:06:01] [Render thread/INFO]: [System] [CHAT] [Helper] Feline: i had parrot for like 5 days before wolf
+[03:06:02] [Render thread/INFO]: [System] [CHAT] [Wolf] [Legion] JRGHopper: XD
+[03:06:03] [Render thread/INFO]: [System] [CHAT] softdere_ was smashed by Lilwhitetiger78 with [Project Hail Tiger]
+[03:06:05] [Render thread/INFO]: [System] [CHAT] [Farmer+] YoloYoloPow: jum jrg
+[03:06:05] [Render thread/INFO]: [System] [CHAT] [Wolf] [🍋Lemonade] Fihngu: he crashed the party
+[03:06:05] [Render thread/INFO]: [System] [CHAT] [Wolf] HeatStroke: ggs
+[03:06:09] [Render thread/INFO]: [System] [CHAT] [Wolf] Winton: -_-
+[03:06:18] [Render thread/INFO]: [System] [CHAT] [Wolf] [🌞Summer'25] GodkingTommy: mace is jst like
+[03:06:22] [Render thread/INFO]: [System] [CHAT] GodkingTommy was smashed by Lilwhitetiger78 with [Project Hail Tiger]
+[03:06:24] [Render thread/INFO]: [System] [CHAT] _EpicMirror2603 left the game
+[03:06:26] [Render thread/INFO]: [System] [CHAT] [Shepherd+] [Legion] ThornsInTheRoses: jrg quit runnin
+[03:06:27] [Render thread/INFO]: [System] [CHAT] [Helper] Feline: vix :[
+[03:06:29] [Render thread/INFO]: [System] [CHAT] [Wolf] [🌞Summer'25] GodkingTommy: every long sentence i type
+[03:06:30] [Render thread/INFO]: [System] [CHAT] [Wolf] [🌞Summer'25] GodkingTommy: i die
+[03:06:34] [Render thread/INFO]: [System] [CHAT] GodkingTommy has teleported to /arena!
+[03:06:39] [Render thread/INFO]: [System] [CHAT] [Newbie] LanternGhost507: then stop typing long sentences
+[03:06:45] [Render thread/INFO]: [System] [CHAT] [Wolf] [🌞Summer'25] GodkingTommy: perhaps
+[03:06:46] [Render thread/INFO]: [System] [CHAT] [JrMod] [🫧🪸Coral] Zee: 😆
+[03:06:49] [Render thread/INFO]: [System] [CHAT] lizardpuff10 was slain by ZeroRegretz using [🔥☠Reaper Death☠🔥]
+[03:06:49] [Render thread/INFO]: [System] [CHAT] [Wolf] [🍋Lemonade] Fihngu: buying elite mats! (netherite blocks/creeper heads)!! also taking donations for elite because i'm gonna go broke ;-;
+[03:06:49] [Render thread/INFO]: [System] [CHAT] [Wolf] [🌞Summer'25] GodkingTommy: but perhaps not
+[03:06:50] [Render thread/INFO]: [System] [CHAT] Rest in peace... Type /back to return to where you died!
+[03:06:50] [Render thread/INFO]: [System] [CHAT] Scorne_ was shot by Skeleton
+[03:06:50] [Render thread/INFO]: Loaded 1505 advancements
+[03:06:52] [Render thread/INFO]: [System] [CHAT] Returning to your last location!
+[03:06:52] [Render thread/INFO]: [System] [CHAT] You have been teleported back to your items for your first few deaths!
+[03:06:52] [Render thread/INFO]: [System] [CHAT] [Bee] lizard: huh
+[03:06:53] [Render thread/INFO]: [System] [CHAT] [Wolf] shy: gota up date it but
+[03:06:56] [Render thread/INFO]: [System] [CHAT] Want a friend? Use /findafriend to find someone to play with!
+[03:06:57] [Render thread/INFO]: [System] [CHAT] JRGHopper fell from a high place
+[03:06:58] [Render thread/INFO]: [System] [CHAT] [Wolf] Winton: I have built a shop, where i wait for customers! I only want to save for legion and not a lesson learned! and i will wait and wait untill this server burns! i will wait and wait(x4) and live off 5 embs a week... (wiimyftroml parody) [/warp Dereshop]
+[03:07:00] [Render thread/INFO]: [System] [CHAT] [Shepherd+] [Legion] ThornsInTheRoses: earned
+[03:07:01] [Render thread/INFO]: [System] [CHAT] [Wolf] [Legion] JRGHopper: lol
+[03:07:01] [Render thread/INFO]: [System] [CHAT] [Wolf] [🍋Lemonade] Fihngu: zero don't
+[03:07:05] [Render thread/INFO]: Stopping!
